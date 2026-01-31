@@ -1,15 +1,16 @@
 <div align="center">
 
-# Mustafa Yılmaz · Backend / Full-Stack Engineer · Founder @ UniqSolutions
+# Mustafa Yılmaz · Full-Stack Engineer · Founder @ BiBak
+
+<a href="#-hakkımda">🇹🇷 Türkçe</a> • <a href="#-about-me">🇬🇧 English</a>
 
 **Building BiBak — FinTech campaign & deals aggregation platform for Turkey**  
-📲 Discover & download: https://bibak.app  
+📲 Discover & download:  
+<a href="https://bibak.app" target="_blank"><b>bibak.app</b></a>
 
-🇹🇷 Türkçe · 🇬🇧 English  
-
-<a href="https://bibak.app">BiBak</a> •
-<a href="https://www.linkedin.com/in/mustafayilmazzz/">LinkedIn</a> •
-<a href="mailto:mustafa_yilmazz@outlook.com">Email</a>
+<a href="https://bibak.app" target="_blank">BiBak</a> •
+<a href="https://www.linkedin.com/in/mustafayilmazzz/" target="_blank">LinkedIn</a> •
+<a href="mailto:mustafa_yilmazz@outlook.com" target="_blank">Email</a>
 
 </div>
 
@@ -19,36 +20,31 @@
 
 Finansal tüketiciler için banka, e-para ve sadakat kampanyalarını; anlık ürün fırsatlarını ve “hot deals” verisini tek yerde toplayan **BiBak** uygulamasını uçtan uca geliştiriyorum.
 
-Odak alanım:
-- Backend mimarisi
-- Veri modelleme & entegrasyonlar
-- Otomasyon süreçleri
-- CI/CD & bulut optimizasyonu
+BiBak yalnızca bir uygulama değil;  
+**veri toplama, sınıflandırma, sıralama ve kullanıcı karar desteği** üzerine kurulu bir FinTech altyapısıdır.
 
-Ürün geliştirirken sadece kod yazmayı değil:
-**ürün değeri + kullanıcı davranışı + teknik sürdürülebilirlik** dengesini kurmayı önemsiyorum.
+Kod yazmanın ötesinde:
+ürün vizyonu, kullanıcı davranışı, teknik sürdürülebilirlik ve operasyonel maliyet optimizasyonuna odaklanıyorum.
 
-📍 Ankara · On-site/Hybrid/Remote çalışmaya açık
+📍 Ankara · On-site / Hybrid / Remote çalışmaya açık
 
 ---
 
 # 🇬🇧 About Me
 
-I am building **BiBak**, a FinTech application that aggregates banking, e-money, loyalty campaigns and real-time deals into a single platform for Turkish consumers.
+I am building **BiBak**, a FinTech platform that aggregates banking, e-money, loyalty campaigns and real-time deals into a single decision-support experience for Turkish consumers.
 
-My focus areas:
-- Backend architecture
-- Data modeling & integrations
-- Automation pipelines
-- CI/CD & cloud optimization
+BiBak is not just an app —  
+it is a **data aggregation, classification and ranking engine** designed for financial consumers.
 
-I enjoy bridging **product thinking with engineering execution**.
+Beyond coding, I focus on:
+product thinking, user behavior, technical sustainability and cost-efficient infrastructure.
 
 ---
 
 # 🚀 Highlighted Project — BiBak
 
-🌐 https://bibak.app  
+🌐 <a href="https://bibak.app" target="_blank">https://bibak.app</a>
 
 ### 🎯 What BiBak Solves
 - Aggregates banking & e-money campaigns
@@ -57,12 +53,39 @@ I enjoy bridging **product thinking with engineering execution**.
 - Provides ranking based on brand/sector logic
 - Monetization-ready infrastructure
 
-### ⚙️ My Responsibilities
-- Backend architecture & API development
-- Data ingestion & normalization
-- Automation jobs & cron workflows
-- CI/CD setup & deployment
-- Cloud infrastructure optimization
+---
+
+## ⚙️ My Responsibilities (Full-Stack · Mobile · DevOps · Product)
+
+- End-to-end product ownership from idea to production
+- Backend architecture & API development (.NET / PostgreSQL)
+- Mobile app development (React Native / Expo)
+- Frontend interfaces & admin panels
+- Data ingestion, normalization & classification pipelines
+- Automation jobs, cron workflows & background processing
+- CI/CD pipelines & release automation
+- Dockerization & server deployments
+- Cloud infrastructure setup & optimization
+- App Store & Play Store release management
+- Monitoring, debugging & performance optimization
+- Feature design based on user behavior & feedback
+
+---
+
+## 🇹🇷 Sorumluluklarım (Full-Stack · Mobile · DevOps · Ürün)
+
+- Fikirden production’a uçtan uca ürün sahipliği
+- Backend mimarisi & API geliştirme (.NET / PostgreSQL)
+- Mobil uygulama geliştirme (React Native / Expo)
+- Frontend arayüzleri & admin paneller
+- Veri toplama, normalize etme & sınıflandırma süreçleri
+- Otomasyon görevleri & arka plan işleyişleri
+- CI/CD pipeline kurulumu & yayın süreçleri
+- Docker & sunucu deploy süreçleri
+- Bulut altyapı kurulumu & optimizasyon
+- App Store & Play Store yayın yönetimi
+- İzleme, hata ayıklama & performans iyileştirme
+- Kullanıcı geri bildirimine göre ürün geliştirme
 
 ---
 
@@ -97,8 +120,8 @@ I enjoy bridging **product thinking with engineering execution**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mustafayilmazzz&show_icons=true&include_all_commits=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafayilmazzz&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mustyilmaz&show_icons=true&include_all_commits=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustyilmaz&layout=compact&hide_border=true" />
 
 </div>
 
@@ -108,13 +131,14 @@ I enjoy bridging **product thinking with engineering execution**.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafayilmazzz&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustyilmaz&hide_border=true" />
 
 </div>
 
+---
 
 # 🤝 Contact
 
-📩 mustafa_yilmazz@outlook.com
-🌐 https://bibak.app  
-💼 LinkedIn: https://www.linkedin.com/in/mustafayilmazzz
+📩 <a href="mailto:mustafa_yilmazz@outlook.com" target="_blank">mustafa_yilmazz@outlook.com</a>  
+🌐 <a href="https://bibak.app" target="_blank">BiBak</a>  
+💼 <a href="https://www.linkedin.com/in/mustafayilmazzz/" target="_blank">LinkedIn</a>
