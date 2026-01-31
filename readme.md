@@ -120,8 +120,8 @@ product thinking, user behavior, technical sustainability and cost-efficient inf
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mustafayilmazzz&show_icons=true&include_all_commits=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mustafayilmazzz&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mustyilmaz&show_icons=true&include_all_commits=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mustyilmaz&layout=compact&hide_border=true" />
 
 </div>
 
@@ -131,7 +131,7 @@ product thinking, user behavior, technical sustainability and cost-efficient inf
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafayilmazzz&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustyilmaz&hide_border=true" />
 
 </div>
 
