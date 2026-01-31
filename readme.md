@@ -119,24 +119,10 @@ product thinking, user behavior, technical sustainability and cost-efficient inf
 # 📊 GitHub Analytics
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mustyilmaz&show_icons=true&include_all_commits=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mustyilmaz&layout=compact&hide_border=true" />
-
 </div>
 
 ---
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustyilmaz&hide_border=true" />
-
-</div>
-
----
-
 # 🤝 Contact
 
 📩 <a href="mailto:mustafa_yilmazz@outlook.com" target="_blank">mustafa_yilmazz@outlook.com</a>  
