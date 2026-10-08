@@ -1,130 +1,127 @@
+
 <div align="center">
 
-# Mustafa Yılmaz · Full-Stack Engineer · Founder @ BiBak
+# Mustafa Yılmaz
 
-<a href="#-hakkımda">🇹🇷 Türkçe</a> • <a href="#-about-me">🇬🇧 English</a>
+### Software Engineer · Full-Stack & Backend · Founder of BiBak
 
-**Building BiBak — FinTech campaign & deals aggregation platform for Turkey**  
-📲 Discover & download:  
-<a href="https://bibak.app" target="_blank"><b>bibak.app</b></a>
+Building production software across fintech, commerce intelligence,
+data engineering, and mobile platforms.
 
-<a href="https://bibak.app" target="_blank">BiBak</a> •
-<a href="https://www.linkedin.com/in/mustafayilmazzz/" target="_blank">LinkedIn</a> •
-<a href="mailto:mustafa_yilmazz@outlook.com" target="_blank">Email</a>
+**Ankara, Türkiye · Open to engineering opportunities**
+
+[LinkedIn](https://www.linkedin.com/in/mustafayilmazzz/) · [GitHub](https://github.com/mustyilmaz) · [Email](mailto:mustafa_yilmazz@outlook.com) · [BiBak](https://bibak.app)
 
 </div>
 
 ---
 
-# 🇹🇷 Hakkımda
+## About
 
-Finansal tüketiciler için banka, e-para ve sadakat kampanyalarını; anlık ürün fırsatlarını ve “hot deals” verisini tek yerde toplayan **BiBak** uygulamasını uçtan uca geliştiriyorum.
+I'm a Computer Engineering graduate and software engineer focused on building products from architecture to production.
 
-BiBak yalnızca bir uygulama değil;  
-**veri toplama, sınıflandırma, sıralama ve kullanıcı karar desteği** üzerine kurulu bir FinTech altyapısıdır.
+I founded **[BiBak](https://bibak.com.tr)**, an independent technology platform bringing financial campaigns, shopping deals, and consumer decision-support tools into one ecosystem.
 
-Kod yazmanın ötesinde:
-ürün vizyonu, kullanıcı davranışı, teknik sürdürülebilirlik ve operasyonel maliyet optimizasyonuna odaklanıyorum.
+My work spans backend engineering, mobile development, data processing, infrastructure, and product development. I design APIs, build ingestion pipelines, manage deployments, and maintain the systems behind the products I ship.
 
-📍 Ankara · On-site / Hybrid / Remote çalışmaya açık
+I'm particularly interested in **backend systems, fintech, data-intensive applications, and applied AI**.
 
----
+## Building BiBak
 
-# 🇬🇧 About Me
+**[BiBak](https://bibak.com.tr)** is a growing ecosystem of consumer-facing digital products and the infrastructure powering them.
 
-I am building **BiBak**, a FinTech platform that aggregates banking, e-money, loyalty campaigns and real-time deals into a single decision-support experience for Turkish consumers.
+| Product | Description |
+|:--|:--|
+| **[BiBak App](https://bibak.app)** | iOS and Android application for financial campaigns, personalized deals, and financial information. |
+| **[BiBak Fırsatlar](https://firsatlar.bibak.com.tr)** | Web platform for discovering bank campaigns, shopping opportunities, coupons, and hot deals. |
+| **[BiBak.com.tr](https://bibak.com.tr)** | Main brand website and home of the BiBak product ecosystem. |
 
-BiBak is not just an app —  
-it is a **data aggregation, classification and ranking engine** designed for financial consumers.
+### Engineering behind the platform
 
-Beyond coding, I focus on:
-product thinking, user behavior, technical sustainability and cost-efficient infrastructure.
+**Backend & System Architecture**
+- ASP.NET Core APIs with PostgreSQL
+- Authentication, authorization, and subscription management
+- Background processing with Hangfire
+- Real-time communication with SignalR
+- Database design, indexing, and query optimization
 
----
+**Data Engineering & Commerce Intelligence**
+- Automated ingestion from multiple data sources
+- Data normalization, deduplication, and entity resolution
+- Hybrid rule-based and LLM-assisted information extraction
+- Product cataloging and merchant offer matching
+- Price history, classification, and deal ranking systems
 
-# 🚀 Highlighted Project — BiBak
+**Mobile & Web**
+- Cross-platform mobile development with React Native and Expo
+- Web applications and administration interfaces with Next.js
+- Push notifications, deep linking, and in-app subscriptions
+- App Store and Google Play release workflows
 
-🌐 <a href="https://bibak.app" target="_blank">https://bibak.app</a>
+**Infrastructure & Operations**
+- Linux-based production environments
+- Docker Compose and reverse-proxy infrastructure
+- Cloudflare networking and application security
+- CI/CD, deployment automation, and monitoring
+- Self-hosted services and infrastructure cost optimization
 
-### 🎯 What BiBak Solves
-- Aggregates banking & e-money campaigns
-- Collects and filters real-time deals
-- Deduplicates & categorizes campaigns
-- Provides ranking based on brand/sector logic
-- Monetization-ready infrastructure
-
----
-
-## ⚙️ My Responsibilities (Full-Stack · Mobile · DevOps · Product)
-
-- End-to-end product ownership from idea to production
-- Backend architecture & API development (.NET / PostgreSQL)
-- Mobile app development (React Native / Expo)
-- Frontend interfaces & admin panels
-- Data ingestion, normalization & classification pipelines
-- Automation jobs, cron workflows & background processing
-- CI/CD pipelines & release automation
-- Dockerization & server deployments
-- Cloud infrastructure setup & optimization
-- App Store & Play Store release management
-- Monitoring, debugging & performance optimization
-- Feature design based on user behavior & feedback
+The goal is to build useful consumer products supported by reliable, maintainable, and scalable engineering.
 
 ---
 
-## 🇹🇷 Sorumluluklarım (Full-Stack · Mobile · DevOps · Ürün)
+## Technology Stack
 
-- Fikirden production’a uçtan uca ürün sahipliği
-- Backend mimarisi & API geliştirme (.NET / PostgreSQL)
-- Mobil uygulama geliştirme (React Native / Expo)
-- Frontend arayüzleri & admin paneller
-- Veri toplama, normalize etme & sınıflandırma süreçleri
-- Otomasyon görevleri & arka plan işleyişleri
-- CI/CD pipeline kurulumu & yayın süreçleri
-- Docker & sunucu deploy süreçleri
-- Bulut altyapı kurulumu & optimizasyon
-- App Store & Play Store yayın yönetimi
-- İzleme, hata ayıklama & performans iyileştirme
-- Kullanıcı geri bildirimine göre ürün geliştirme
+| Area | Technologies |
+|:--|:--|
+| **Languages** | C#, TypeScript, JavaScript, Python, SQL |
+| **Backend** | ASP.NET Core, .NET, REST APIs, Hangfire, SignalR |
+| **Frontend** | React, Next.js |
+| **Mobile** | React Native, Expo |
+| **Databases** | PostgreSQL, MongoDB |
+| **Data & AI** | Data Pipelines, NLP, LLM Integration, Ollama |
+| **Infrastructure** | Docker, Linux, Cloudflare, Caddy |
+| **Dev Tools** | Git, GitHub Actions, Postman, DBeaver, VS Code |
 
 ---
 
-# 🧰 Tech Stack
+## Engineering Interests
 
-## Backend
-- ASP.NET Core / .NET
-- RESTful API design
-- Background job processing
-- PostgreSQL (schema design & performance optimization)
+I enjoy working on engineering challenges involving:
 
-## Frontend / Mobile
-- React
-- Next.js
-- React Native (Expo)
-
-## DevOps & Infrastructure
-- Docker & Docker Compose
-- GitHub Actions CI/CD
-- Linux server management
-- Cloudflare DNS / Tunnels
-
-## Tools
-- IntelliJ IDEA
-- VS Code
-- Postman
-- DBeaver w/ PostgreSQL
+- **Distributed & Backend Systems** — API architecture, asynchronous processing, system reliability, and performance.
+- **Data Engineering** — Crawlers, ETL pipelines, structured extraction, search, and data quality.
+- **Applied AI** — Integrating language models into practical workflows with deterministic validation.
+- **FinTech & Commerce** — Financial products, campaign intelligence, pricing systems, and consumer decision support.
+- **Infrastructure** — Self-hosting, containerized deployments, automation, and operational efficiency.
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mustyilmaz&show_icons=true&include_all_commits=true&hide_border=true" />
+
+<a href="https://github.com/mustyilmaz">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=mustyilmaz&show_icons=true&hide_border=true&include_all_commits=true&theme=default" alt="Mustafa's GitHub statistics" />
+</a>
+
+<a href="https://github.com/mustyilmaz">
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mustyilmaz&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Most used languages" />
+</a>
+
 </div>
 
----
-# 🤝 Contact
+> Most of my recent product development also takes place in private repositories. Public GitHub metrics represent only part of my engineering activity.
 
-📩 <a href="mailto:mustafa_yilmazz@outlook.com" target="_blank">mustafa_yilmazz@outlook.com</a>  
-🌐 <a href="https://bibak.app" target="_blank">BiBak</a>  
-💼 <a href="https://www.linkedin.com/in/mustafayilmazzz/" target="_blank">LinkedIn</a>
+---
+
+## Let's Connect
+
+I'm open to conversations about software engineering, backend development, fintech, and technology-driven products.
+
+For engineering opportunities, technical discussions, or collaboration:
+
+**[LinkedIn](https://www.linkedin.com/in/mustafayilmazzz/)** · **[Email](mailto:mustafa_yilmazz@outlook.com)** · **[GitHub](https://github.com/mustyilmaz)**
+
+<div align="center">
+  <sub>Building products with purpose. Engineering for the long term.</sub>
+</div>
